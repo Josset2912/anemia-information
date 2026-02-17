@@ -156,24 +156,43 @@ import Layout from "../layout/Layout.astro";
               <!-- Grid de imágenes de posiciones -->
               <div class="grid grid-cols-2 md:grid-cposiciones-3 gap-3">
                 <div
-                  class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center"
+                  class="bg-gray-100 aspect-square rounded-lg overflow-hidden"
                 >
-                  <span class="text-gray-400">Imagen 1</span>
+                  <img
+                    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400"
+                    alt="Comida saludable"
+                    class="w-full h-full object-cover"
+                  />
                 </div>
+
                 <div
-                  class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center"
+                  class="bg-gray-100 aspect-square rounded-lg overflow-hidden"
                 >
-                  <span class="text-gray-400">Imagen 2</span>
+                  <img
+                    src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400"
+                    alt="Ensalada nutritiva"
+                    class="w-full h-full object-cover"
+                  />
                 </div>
+
                 <div
-                  class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center"
+                  class="bg-gray-100 aspect-square rounded-lg overflow-hidden"
                 >
-                  <span class="text-gray-400">Imagen 3</span>
+                  <img
+                    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400"
+                    alt="Frutas saludables"
+                    class="w-full h-full object-cover"
+                  />
                 </div>
+
                 <div
-                  class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center"
+                  class="bg-gray-100 aspect-square rounded-lg overflow-hidden"
                 >
-                  <span class="text-gray-400">Imagen 4</span>
+                  <img
+                    src="https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=400"
+                    alt="Nutrición balanceada"
+                    class="w-full h-full object-cover"
+                  />
                 </div>
               </div>
             </div>
@@ -856,7 +875,7 @@ import Layout from "../layout/Layout.astro";
         const activeButton = document.getElementById(`tab-${tabName}`);
         activeButton.classList.remove(
           "text-orange-800",
-          "hover:text-orange-900"
+          "hover:text-orange-900",
         );
         activeButton.classList.add("bg-white", "shadow-md", "text-orange-600");
       }

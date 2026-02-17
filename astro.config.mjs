@@ -1,20 +1,16 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
-import netlify from "@astrojs/netlify"; // <--- 👈 Importar el adaptador
 
 export default defineConfig({
-  output: "static", // <--- 👈 Importante para Netlify
-  adapter: netlify(), // <--- 👈 Aquí se conecta el adaptador
+    output: "static",
 
-  
-  
-  vite: {
-    plugins: [tailwindcss()],
-    resolve: {
-      alias: {
-        "@": new URL("./src", import.meta.url).pathname,
-      },
+    vite: {
+        plugins: [tailwindcss()],
+        resolve: {
+            alias: {
+                "@": new URL("./src", import.meta.url).pathname,
+            },
+        },
     },
-  },
 });
