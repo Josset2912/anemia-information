@@ -48,15 +48,15 @@ Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Instalación
 
---> Clonar el repositorio:
+=> Clonar el repositorio:
 
 git clone https://github.com/tuusuario/nutrikids.git
 
---> Instalar dependencias:
+=> Instalar dependencias:
 
 npm install
 
---> Ejecutar en entorno de desarrollo:
+=> Ejecutar en entorno de desarrollo:
 
 npm run dev
 
