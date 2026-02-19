@@ -26,7 +26,7 @@ Este proyecto demuestra mis habilidades en desarrollo frontend, diseño responsi
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Problema que Resuelve
 
-La anemia infantil es un problema crítico de salud pública. Esta aplicación facilita el acceso a recetas con alto contenido de hierro, ayudando a prevenir esta condición mediante información accesible y organizada.
+Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi capacidad para desarrollar soluciones web funcionales, escalables y orientadas a resolver problemas reales.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tecnologías Utilizadas
 
