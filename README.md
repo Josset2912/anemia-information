@@ -23,7 +23,6 @@ Este proyecto demuestra mis habilidades en desarrollo frontend, diseño responsi
 
 ✔ Estructura modular y escalable
 
-✔ Despliegue profesional en Netlify
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Problema que Resuelve
 
