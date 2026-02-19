@@ -123,6 +123,6 @@ Perú
 
 * Desarrollar aplicaciones web modernas
 
-*Implementar buenas prácticas de desarrollo
+* Implementar buenas prácticas de desarrollo
 
 * Desplegar aplicaciones en entornos reales
