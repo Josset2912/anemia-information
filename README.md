@@ -63,7 +63,7 @@ npm run dev
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🌎 Deploy
 
---> Aplicación desplegada en Netlify:
+👉 Aplicación desplegada en Netlify:
 
 https://lucha-contra-la-anemia.netlify.app/
 
