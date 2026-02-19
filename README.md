@@ -104,6 +104,7 @@ https://lucha-contra-la-anemia.netlify.app/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Enfoque Profesional
+
 Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi capacidad para desarrollar soluciones web funcionales, escalables y orientadas a resolver problemas reales.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 👤 Autor
