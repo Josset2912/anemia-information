@@ -107,7 +107,7 @@ https://lucha-contra-la-anemia.netlify.app/
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Enfoque Profesional
 
-✔ Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi capacidad para desarrollar soluciones web funcionales, escalables y orientadas a resolver problemas reales.
+Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi capacidad para desarrollar soluciones web funcionales, escalables y orientadas a resolver problemas reales.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 👤 Autor
 
@@ -118,12 +118,12 @@ Perú
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ⭐ Valor Profesional
 
-Este proyecto demuestra mi capacidad para:
+- Este proyecto demuestra mi capacidad para:
+  
+* Transformar una necesidad real en una solución tecnológica
 
-Transformar una necesidad real en una solución tecnológica
+* Desarrollar aplicaciones web modernas
 
-Desarrollar aplicaciones web modernas
+*Implementar buenas prácticas de desarrollo
 
-Implementar buenas prácticas de desarrollo
-
-Desplegar aplicaciones en entornos reales
+* Desplegar aplicaciones en entornos reales
