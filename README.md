@@ -10,7 +10,9 @@ Desarrollé una aplicación web educativa enfocada en la prevención de la anemi
 Este sistema permite a padres y cuidadores acceder fácilmente a información nutricional confiable y fomentar hábitos alimenticios saludables desde los primeros meses de vida.
 
 Este proyecto demuestra mis habilidades en desarrollo frontend, diseño responsive y estructuración de aplicaciones web modernas.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
 🚀 Características Principales
 
 ✔ Visualización de recetas organizadas por edad
@@ -27,6 +29,7 @@ Este proyecto demuestra mis habilidades en desarrollo frontend, diseño responsi
 🧠 Problema que Resuelve
 
 Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi capacidad para desarrollar soluciones web funcionales, escalables y orientadas a resolver problemas reales.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tecnologías Utilizadas
 
@@ -41,6 +44,7 @@ Astro
 Netlify
 
 Git y GitHub
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Instalación
 
@@ -55,12 +59,14 @@ npm install
 Ejecutar en entorno de desarrollo:
 
 npm run dev
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🌎 Deploy
 
 Aplicación desplegada en Netlify:
 
 https://lucha-contra-la-anemia.netlify.app/
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 👨‍💻 Mi Rol en el Proyecto
 
@@ -94,6 +100,7 @@ https://lucha-contra-la-anemia.netlify.app/
 🎯 Enfoque Profesional
 
 Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi capacidad para desarrollar soluciones web funcionales, escalables y orientadas a resolver problemas reales.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 👤 Autor
 
@@ -101,6 +108,7 @@ Josset Portuguez
 Auxiliar de TI | Desarrollador Web
 
 Perú
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ⭐ Valor Profesional
 
