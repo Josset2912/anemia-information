@@ -89,7 +89,7 @@ https://lucha-contra-la-anemia.netlify.app/
 
 ✔ Realizar el despliegue en producción
 
-✔ Optimizar la experiencia de usuario
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Habilidades Demostradas
 
@@ -103,7 +103,6 @@ https://lucha-contra-la-anemia.netlify.app/
 
 ✔ Deploy de aplicaciones web
 
-✔ Control de versiones con Git
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Enfoque Profesional
 
