@@ -5,11 +5,11 @@ https://lucha-contra-la-anemia.netlify.app/
 -------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Descripción del Proyecto
 
-Desarrollé una aplicación web educativa enfocada en la prevención de la anemia infantil mediante la visualización de recetas nutritivas ricas en hierro, organizadas por rangos de edad.
+* Desarrollé una aplicación web educativa enfocada en la prevención de la anemia infantil mediante la visualización de recetas nutritivas ricas en hierro, organizadas por rangos de edad.
 
-Este sistema permite a padres y cuidadores acceder fácilmente a información nutricional confiable y fomentar hábitos alimenticios saludables desde los primeros meses de vida.
+* Este sistema permite a padres y cuidadores acceder fácilmente a información nutricional confiable y fomentar hábitos alimenticios saludables desde los primeros meses de vida.
 
-Este proyecto demuestra mis habilidades en desarrollo frontend, diseño responsive y estructuración de aplicaciones web modernas.
+* Este proyecto demuestra mis habilidades en desarrollo frontend, diseño responsive y estructuración de aplicaciones web modernas.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,37 +33,37 @@ Este proyecto forma parte de mi portafolio como Desarrollador Web y demuestra mi
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tecnologías Utilizadas
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript
+- JavaScript
 
-Astro
+- Astro
 
-Netlify
+- Netlify
 
-Git y GitHub
+- Git y GitHub
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Instalación
 
-Clonar el repositorio:
+--> Clonar el repositorio:
 
 git clone https://github.com/tuusuario/nutrikids.git
 
-Instalar dependencias:
+--> Instalar dependencias:
 
 npm install
 
-Ejecutar en entorno de desarrollo:
+--> Ejecutar en entorno de desarrollo:
 
 npm run dev
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🌎 Deploy
 
-Aplicación desplegada en Netlify:
+--> Aplicación desplegada en Netlify:
 
 https://lucha-contra-la-anemia.netlify.app/
 
